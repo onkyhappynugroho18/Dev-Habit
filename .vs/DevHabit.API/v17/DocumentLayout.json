@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "D:\\Metrodata\\Refreshment .Net\\Dev-Habit\\DevHabit.API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D4A54E31-F232-48B1-98EF-104C04E9BB26}|DevHabit.API\\DevHabit.API.csproj|d:\\metrodata\\refreshment .net\\dev-habit\\devhabit.api\\devhabit.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D4A54E31-F232-48B1-98EF-104C04E9BB26}|DevHabit.API\\DevHabit.API.csproj|solutionrelative:devhabit.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D4A54E31-F232-48B1-98EF-104C04E9BB26}|DevHabit.API\\DevHabit.API.csproj|d:\\metrodata\\refreshment .net\\dev-habit\\devhabit.api\\devhabit.api\\devhabit.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{D4A54E31-F232-48B1-98EF-104C04E9BB26}|DevHabit.API\\DevHabit.API.csproj|solutionrelative:devhabit.api\\devhabit.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
@@ -38,24 +34,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "D:\\Metrodata\\Refreshment .Net\\Dev-Habit\\DevHabit.API\\DevHabit.API\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "DevHabit.API\\appsettings.Development.json",
-              "ToolTip": "D:\\Metrodata\\Refreshment .Net\\Dev-Habit\\DevHabit.API\\DevHabit.API\\appsettings.Development.json",
-              "RelativeToolTip": "DevHabit.API\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-03T12:49:54.785Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "DevHabit.API.http",
               "DocumentMoniker": "D:\\Metrodata\\Refreshment .Net\\Dev-Habit\\DevHabit.API\\DevHabit.API\\DevHabit.API.http",
               "RelativeDocumentMoniker": "DevHabit.API\\DevHabit.API.http",
@@ -63,11 +50,12 @@
               "RelativeToolTip": "DevHabit.API\\DevHabit.API.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-06-03T12:43:34.993Z"
+              "WhenOpened": "2025-06-03T12:43:34.993Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "docker-compose.yml",
               "DocumentMoniker": "D:\\Metrodata\\Refreshment .Net\\Dev-Habit\\DevHabit.API\\docker-compose.yml",
               "RelativeDocumentMoniker": "docker-compose.yml",
@@ -79,7 +67,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "D:\\Metrodata\\Refreshment .Net\\Dev-Habit\\DevHabit.API\\DevHabit.API\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "DevHabit.API\\WeatherForecast.cs",
@@ -91,7 +79,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": ".editorconfig",
               "DocumentMoniker": "D:\\Metrodata\\Refreshment .Net\\Dev-Habit\\DevHabit.API\\.editorconfig",
               "RelativeDocumentMoniker": ".editorconfig",
@@ -103,7 +91,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "D:\\Metrodata\\Refreshment .Net\\Dev-Habit\\DevHabit.API\\DevHabit.API\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "DevHabit.API\\Controllers\\WeatherForecastController.cs",
@@ -115,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Metrodata\\Refreshment .Net\\Dev-Habit\\DevHabit.API\\DevHabit.API\\Program.cs",
               "RelativeDocumentMoniker": "DevHabit.API\\Program.cs",
