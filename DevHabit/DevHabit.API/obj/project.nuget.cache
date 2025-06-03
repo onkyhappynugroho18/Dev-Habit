@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "dq+Sg702xkU=",
+  "success": false,
+  "projectFilePath": "D:\\Metrodata\\Refreshment .Net\\Dev-Habit Project\\DevHabit\\DevHabit.API\\DevHabit.API.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to read project information for 'DevHabit.API': Invalid framework identifier ''.",
+      "projectPath": "D:\\Metrodata\\Refreshment .Net\\Dev-Habit Project\\DevHabit\\DevHabit.API\\DevHabit.API.csproj",
+      "filePath": "D:\\Metrodata\\Refreshment .Net\\Dev-Habit Project\\DevHabit\\DevHabit.API\\DevHabit.API.csproj",
+      "targetGraphs": []
+    }
+  ]
+}

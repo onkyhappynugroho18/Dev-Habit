@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\DevHabit.API"
   ],
-  "SelectedNode": "\\DevHabit.API.sln",
+  "SelectedNode": "\\DevHabit.API\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
