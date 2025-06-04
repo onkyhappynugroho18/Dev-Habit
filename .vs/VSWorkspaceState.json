@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
+    "\\.github",
+    "\\.github\\workflows",
     "\\DevHabit"
   ],
-  "SelectedNode": "\\DevHabit\\DevHabit.API.sln",
+  "SelectedNode": "\\.github\\workflows\\build.yml",
   "PreviewInSolutionExplorer": false
 }
